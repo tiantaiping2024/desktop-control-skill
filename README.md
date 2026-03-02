@@ -145,6 +145,29 @@ openclaw skills run desktop-control keypress --hotkey ctrl,c
 
 ---
 
+## 🤝 如何参与
+
+我们欢迎各种形式的贡献！
+
+### 新手友好任务
+- 📖 **完善文档**: 改进 README、添加使用示例
+- 🐛 **报告 Bug**: 遇到问题直接提 Issue
+- 💡 **功能建议**: 有什么想法尽管说
+- 🌟 **点 Star**: 支持项目发展
+
+### 参与方式
+1. **Fork 项目**
+2. **创建分支** (`git checkout -b feature/AmazingFeature`)
+3. **提交更改** (`git commit -m 'Add some AmazingFeature'`)
+4. **推送分支** (`git push origin feature/AmazingFeature`)
+5. **创建 Pull Request**
+
+### 讨论区
+- [GitHub Discussions](../../discussions) - 闲聊、提问、分享
+- [Issues](../../issues) - Bug 报告、功能请求
+
+---
+
 ## 🛡️ 安全说明
 
 **⚠️ 重要安全特性：**
